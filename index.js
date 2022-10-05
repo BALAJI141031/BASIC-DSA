@@ -1,3 +1,4 @@
+//Question link:https://www.codingninjas.com/codestudio/problems/two-sum_839653
 
 // const arr=[2,7,11,13]
 const arr=[1,-1,-1,2,2]
